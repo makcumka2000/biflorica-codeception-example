@@ -1,0 +1,12 @@
+{
+    "name": "makcu/tests",
+    "authors": [
+        {
+            "name": "Semenov Maksim",
+            "email": "makcumka2000@gmail.com"
+        }
+    ],
+    "require": {
+        "codeception/codeception": "^2.3"
+    }
+}
